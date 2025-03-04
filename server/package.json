@@ -1,0 +1,13 @@
+{
+    "name": "mini-deducibilita",
+    "version": "1.0.0",
+    "description": "Mini app per calcoli di deducibilità fiscale basati sul TUIR",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
